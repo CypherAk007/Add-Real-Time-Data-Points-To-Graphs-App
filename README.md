@@ -1,10 +1,9 @@
 # Add-Real-Time-Data-Points-To-Graphs-App
-# Chat-App
 ## Problem Title
-Advance Modern Chating App. 
+Add-Real-Time-Data-Points-To-Graphs-App.
 
 ## Description
-This project concentrates on a fully fledged dynamic chating App.
+This project concentrates on a fully fledged dynamic Graph Ploting App.
 Features -
 - Plot Real Time X and Y Points.
 
